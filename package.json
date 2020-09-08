@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@snowpack/app-scripts-react": "^1.10.0",
+    "snowpack": "2.10.2"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
